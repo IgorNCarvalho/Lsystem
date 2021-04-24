@@ -1,0 +1,10 @@
+Σ : F, +, -
+n : 3
+ω : F-F-F-F
+δ : 90º
+p1 : F → +FF
+
+0: F-F-F-F
+1: +FF-+FF-+FF-+FF
+2: ++FF+FF-++FF+FF-++FF+FF-++FF+FF
+3: +++FF+FF++FF+FF-+++FF+FF++FF+FF-+++FF+FF++FF+FF-+++FF+FF++FF+FF
